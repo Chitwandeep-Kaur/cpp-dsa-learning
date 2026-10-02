@@ -1,4 +1,4 @@
-#  C++ & DSA — Apna College 🦢
+#  C++ & DSA — 🦢
 
 
 My C++ and Data Structures & Algorithms learning journey following the Complete C++ DSA Course by **Apna College**.
